@@ -1,0 +1,269 @@
+.cointainer
+{
+    width:60%;
+    margin:auto;
+}
+
+
+.pic
+{
+    width:100%;
+    height:666px;
+    background-image:url('../mujib.jpg');
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+}
+
+.pic .p
+{
+    
+    position:absolute;
+    top:200px;
+    left:350px;
+    font-weight: 600;
+    font-size: 30px;
+    color:#9FA29B;
+    font-family: 'Indie Flower', cursive;
+}
+
+.pic .s
+{
+ position:absolute;
+    top:245px;
+    left:400px;
+    
+    font-size: 25px;
+    color:#9FA29B;
+    
+}
+
+.text p
+{
+    margin:30px;
+    font-size: 25px;
+    letter-spacing:7px;
+    word-spacing: 10px;
+    
+    font-family: 'Indie Flower', cursive;
+
+    font-family: 'Montserrat Subrayada', sans-serif;
+
+    font-family: 'Bangers', cursive;
+
+}
+
+
+            /*--Header part end-- */
+  /*--**************************************-- */
+
+         /*--Section part start- */
+
+.cointainer2
+{
+    width:70%;
+    margin:auto;
+    padding-bottom: 100px;
+}
+
+
+
+.left
+{
+    width:60%;
+   
+    
+}
+
+.right
+{
+    width:40%;
+    
+}
+
+.X
+{
+    float:left;
+}
+
+.left .t1
+{
+  font-size: 50px; 
+    margin:40px;
+    color:#E8AF92;
+}
+
+.left .l
+{
+  width:30%;
+    
+}
+.left .r
+{
+  width:70%;
+    
+}
+
+.f
+{
+    float:left;
+}
+
+.t2
+{
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+
+
+.side
+{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.left .r
+{
+   font-size: 14px; 
+    
+
+    
+
+    font-family: 'Indie Flower', cursive;
+
+    font-family: 'Montserrat Subrayada', sans-serif;
+
+    font-family: 'Bangers', cursive;
+
+    font-family: 'Monoton', cursive;
+
+    font-family: 'Gruppo', cursive;
+
+
+
+
+    background-color:#ECECEC; bbb
+}
+
+.left .l
+{
+    font-size: 14px;
+    
+
+    font-family: 'Indie Flower', cursive;
+
+    font-family: 'Montserrat Subrayada', sans-serif;
+
+    font-family: 'Bangers', cursive;
+
+    font-family: 'Monoton', cursive;
+
+    font-family: 'Gruppo', cursive;
+
+    font-family: 'Open Sans Condensed', sans-serif;
+
+
+}
+
+.t3
+{
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+
+.g
+{
+    float: left;
+}
+
+.t4
+{
+   overflow: hidden;
+    margin-bottom: 20px; 
+}
+
+.i
+{
+    float: left;
+}
+
+.container2 .left
+{
+    overflow: hidden;
+}
+
+.t5
+{
+    overflow: hidden;
+}
+.t5 .j
+{
+    float: left;
+}
+
+.t5 .l
+{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.t6
+{
+  overflow: hidden;  
+}
+
+.t6 .k
+{
+   float: left; 
+}
+
+.t6 .l
+{
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.X
+{
+    margin-bottom: 200px;
+}
+
+.right .l
+{
+    font-weight: 600;
+}
+
+.right .r
+{
+    
+    font-family: 'Indie Flower', cursive;
+
+    font-family: 'Montserrat Subrayada', sans-serif;
+
+    font-family: 'Bangers', cursive;
+
+    font-family: 'Monoton', cursive;
+
+    font-family: 'Gruppo', cursive;
+
+
+
+}
+
+.side p
+{
+    text-align: center;
+}
+
+
+body
+{
+    background:linear-gradient(gray,white);
+}
+
+hr
+{
+    border-top: 0.8px;
+}
